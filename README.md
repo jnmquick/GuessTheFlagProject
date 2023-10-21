@@ -11,8 +11,9 @@ when dismissing the alert. This alert was used to display the user's score and w
 correctly.
 
 I had to add a few things when I was finished such as:
-    - Displaying to the user the answer they chose when it was incorrect
-    - Adding a score label to the navigationBar
-    - and restarting the game after 10 questions had been asked
+
+ - Displaying to the user the answer they chose when it was incorrect
+ - Adding a score label to the navigationBar
+ - and restarting the game after 10 questions had been asked
 
 
